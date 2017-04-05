@@ -55,3 +55,5 @@ permalink: /bibliography/
 # Military Theory
 
 # Operations Research
+
+# Temporality
