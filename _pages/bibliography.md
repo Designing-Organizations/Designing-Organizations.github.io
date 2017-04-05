@@ -32,6 +32,7 @@ permalink: /bibliography/
 
 ## SocioMateriality
 * Orlikowski, Wanda J. "Sociomaterial practices: Exploring technology at work." Organization studies 28.9 (2007): 1435-1448.
+* Orlikowski, W. (1992). The Duality of Technology: Rethinking the Concept of Technology in Organizations. Organization Science, 3(3), 398-427
 
 ## Communications / Knowledge Management
 
