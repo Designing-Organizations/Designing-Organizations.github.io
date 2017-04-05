@@ -31,6 +31,7 @@ permalink: /bibliography/
 * Trist, Eric. "A concept of organizational ecology." Australian journal of management 2.2 (1977): 161-175.
 
 ## SocioMateriality
+* Orlikowski, Wanda J. "Sociomaterial practices: Exploring technology at work." Organization studies 28.9 (2007): 1435-1448.
 
 ## Communications / Knowledge Management
 
