@@ -4,6 +4,7 @@ author_profile: true
 title: Bibliography
 permalink: /bibliography/
 excerpt: "A Bibliography for exploring the intersections between Organizational Design and Service Design"
+header.image: /assets/images/index.jpg
 ---
 
 ## Cybernetics
