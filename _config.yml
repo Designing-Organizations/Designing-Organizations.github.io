@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Designing Organizations"
 title_separator          : "-"
-name                     : "@cyetain"
+name                     : "Joshua Bloom"
 description              : "A community of design researchers and practioners exploring the intersection of Organizational Design and Service Design"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
