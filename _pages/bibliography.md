@@ -49,13 +49,19 @@ excerpt: "A Bibliography for exploring the intersections between Organizational 
 * Morgan, Gareth. "Images of organization." (1997).
 * Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. Yale University Press, 1998.
 
-## Critical management studies
+# Critical management studies
+
+# Organizational Theory
+
+## Contingency Theory
 
 # Organizational Change
 
 # Culture (Corporate/Organizational)
 
 # Service Design
+
+* Sangiorgi, Daniela. "Transformative services and transformation design." International Journal of Design 5.2 (2011).
 
 # Military Theory
 
