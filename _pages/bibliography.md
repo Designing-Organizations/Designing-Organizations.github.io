@@ -1,7 +1,9 @@
 ---
 layout: single
 header:
-  image: "/assets/images/index.jpg"
+  overlay_color: "#FFF"
+  overlay_filter: "0.4"
+  overlay_image: "/assets/images/index.jpg"
 author_profile: true
 title: Bibliography
 permalink: /bibliography/
