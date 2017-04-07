@@ -51,15 +51,21 @@ excerpt: "A Bibliography for exploring the intersections between Organizational 
 * Morgan, Gareth. "Images of organization." (1997).
 * Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. Yale University Press, 1998.
 
-# Critical management studies
+# Management
 
-# Organizational Theory
+* Boland Jr, Richard J., et al. "Managing as designing: lessons for organization leaders from the design practice of Frank O. Gehry." Design Issues 24.1 (2008): 10-25.
 
-## Contingency Theory
+* Gruber, Marc, et al. "Managing by design." Academy of Management Journal 58.1 (2015): 1-7.
 
-# Organizational Change
+## Critical management studies
 
-# Culture (Corporate/Organizational)
+## Organizational Theory
+
+### Contingency Theory
+
+## Organizational Change
+
+## Culture (Corporate/Organizational)
 
 # Service Design
 
