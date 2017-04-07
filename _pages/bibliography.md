@@ -61,6 +61,8 @@ excerpt: "A Bibliography for exploring the intersections between Organizational 
 
 ## Organizational Theory
 
+* Chapter 6 “Bureaucracy” from Weber’s Rationalism and Modern Society: New Translations on Politics, Bureaucracy, and Social Stratification.  Edited and Translated by Tony Waters and Dagmar Waters.  Palgrave MacMillan 2015, pp. 73-128.
+
 ### Contingency Theory
 
 ## Organizational Change
