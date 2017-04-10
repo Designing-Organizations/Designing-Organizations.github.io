@@ -65,7 +65,15 @@ excerpt: "A Bibliography for exploring the intersections between Organizational 
 
 ### Contingency Theory
 
+## Organizational Development
+
 ## Organizational Change
+
+* Sadler, Philip. "Designing an Organisation Structure: A Behavioural Science Approach." Management International Review (1971): 19-33.
+
+## Organizational Structure
+
+* BoilingFrogs https://github.com/gchq/BoilingFrogs
 
 ## Culture (Corporate/Organizational)
 
