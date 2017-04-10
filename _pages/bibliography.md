@@ -47,9 +47,11 @@ excerpt: "A Bibliography for exploring the intersections between Organizational 
 * Lyra J. Colfer, Carliss Y. Baldwin; The mirroring hypothesis: theory, evidence, and exceptions. Ind Corp Change 2016; 25 (5): 709-738. doi: 10.1093/icc/dtw027
 * MacCormack, Alan, Carliss Baldwin, and John Rusnak. "Exploring the duality between product and organizational architectures: A test of the “mirroring” hypothesis." Research Policy 41.8 (2012): 1309-1324.
 
-## Metaphors
+## Metaphors (Orgs is like a box o chocolates)
 * Morgan, Gareth. "Images of organization." (1997).
 * Scott, James C. Seeing like a state: How certain schemes to improve the human condition have failed. Yale University Press, 1998.
+* Weick, Karl E. "Educational organizations as loosely coupled systems." Administrative science quarterly (1976): 1-19.
+* Cohen, Michael D., James G. March, and Johan P. Olsen. "A garbage can model of organizational choice." Administrative science quarterly (1972): 1-25.
 
 # Management
 
