@@ -21,13 +21,17 @@ excerpt: "A Bibliography for exploring the intersections between Organizational 
 * Ackoff, Russell Lincoln, and F. E Emery. On Purposeful Systems. Chicago: Aldine-Atherton, 1972.
 * Ulrich, W. (2012). Operational research and critical systems thinking—an integrated perspective Part 1: OR as applied systems thinking. The Journal of the Operational Research Society, 63(9), 1228-1247
 
+## Organization as a Network
+
+* Goold, Michael, and Andrew Campbell. Designing effective organizations: How to create structured networks. Wiley, 2002.
+
 ### Learning Organization
 * Senge, Peter M. The fifth discipline: The art and practice of the learning organization. Crown Pub, 2006.
 * Argyris, C., & Schön, D. (1997). Organizational Learning: A Theory of Action Perspective. Reis, (77/78), 345-348. doi:10.2307/40183951
 
 ## Lean
 
-## Process Theory
+## Organization as a Process
 
 ## Theory of Constraints
 
